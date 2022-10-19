@@ -1,0 +1,19 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "\"firstExpressServer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeccaacero1/expressServer.git"
+  },
+  "author": "rebecca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeccaacero1/expressServer/issues"
+  },
+  "homepage": "https://github.com/rebeccaacero1/expressServer#readme"
+}
