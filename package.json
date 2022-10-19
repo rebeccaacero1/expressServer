@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rebeccaacero1/expressServer/issues"
   },
-  "homepage": "https://github.com/rebeccaacero1/expressServer#readme"
+  "homepage": "https://github.com/rebeccaacero1/expressServer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
